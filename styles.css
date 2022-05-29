@@ -7,9 +7,9 @@ body {
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: #DCDCDC;
-  border-width: 15px;
-  width: 30%;
+  border-color: Darkgrey;
+  border-width: 10px;
+  width: 20%;
 }
 img  {
 height:150px;
